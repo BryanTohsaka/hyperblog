@@ -15,3 +15,10 @@ body{
 #container h1{
     font-size: 20px;
 }
+.cabecera{
+    background-color: rgb(75, 108, 255);
+    color: #fff;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
