@@ -24,4 +24,5 @@ body{
 }
 balthasar{
     transform: matrix3d(3em);
+    -o-transition-property: calc();
 }
