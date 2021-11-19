@@ -24,4 +24,5 @@ body{
 }
 baltasar{
     transform: matrix3d(3em);
+    -o-transition-property: calc();
 }
